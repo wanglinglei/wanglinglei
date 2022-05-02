@@ -7,14 +7,14 @@
 
 **languages and tools:**  
 
-<font color=gold>JavaScript</font>
-<font color=#337ab7>TypeScript</font>
-<font color=#5fa04e>Node</font>
-<font color=#42b983>Vue</font>
-<font color=#61dafb>React</font>
-<font color=#13aa52>MongoDB</font>
-<font color=#0074a3>Mysql</font>
-<font color=#f0e>Git</font>
+<code><font color=gold>JavaScript</font></code>
+<code><font color=#337ab7>TypeScript</font></code>
+<code><font color=#5fa04e>Node</font></code>
+<code><font color=#42b983>Vue</font></code>
+<code><font color=#61dafb>React</font></code>
+<code><font color=#13aa52>MongoDB</font></code>
+<code><font color=#0074a3>Mysql</font></code>
+<code><font color=#f0e>Git</font></code>
 <!--  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 -->
